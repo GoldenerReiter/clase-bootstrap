@@ -1,0 +1,29 @@
+.bg-body-custom {
+    background-color: rgb(63, 63, 60);
+}
+.bg-nav-color-custom {
+    background-color: rgb(214, 175, 0);
+}
+.nav-ele:hover {
+    background-color: rgb(175, 144, 2);
+}
+.bg-corpus1-color {
+    background-color: rgb(117, 117, 117);
+    padding: 1%;
+}
+.text1 {
+    padding: 1% 1% 0% 1%;
+}
+.text1-custom {
+    max-width: 30%;
+    margin: 2%;
+}
+.carousel-custom {
+    width: 120%;
+}
+.img2-custom-size {
+    width: 70%;
+}
+footer {
+    position:static;
+}
